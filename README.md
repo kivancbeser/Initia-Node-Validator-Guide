@@ -23,7 +23,7 @@ NOTE: DON'T FORGET TO BACKUP YOUR WALLET KEY AND priv_validator_key.json (in con
 | ------------ | ------------ |
 | CPU |	4|
 | RAM	| 8+ GB |
-| Storage	| 400 GB SSD |
+| Storage	| 1000 GB SSD |
 | System	| Ubuntu 22.04 |
 
 ### UPDATE UPGRADE MACHINE
@@ -49,7 +49,7 @@ go version
 ```
 git clone https://github.com/initia-labs/initia
 cd initia
-git checkout v0.2.12
+git checkout v0.2.15
 make install
 ```
 
